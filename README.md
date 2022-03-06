@@ -5,8 +5,12 @@ Flyer von und für die Fridays for Future Ortsgruppe Bodensee.
 
  Abhängigkeiten
 ---------------
-Es wird Inkscape 1.1 *(oder neuer)* für das bearbeiten der svg Dateien benötigt.
-Informationen zu Farben und der verwendeten Schriftart (``Jost``) gibt es auf [wiki.fridaysforfuture.is/wiki/Corporate-Identity](https://wiki.fridaysforfuture.is/wiki/Corporate-Identity).
++ Es wird Inkscape 1.1 *(oder neuer)* für das bearbeiten der svg Dateien benötigt.
++ Informationen zu Farben und der verwendeten Schriftart (``Jost``) gibt es auf [wiki.fridaysforfuture.is/wiki/Corporate-Identity](https://wiki.fridaysforfuture.is/wiki/Corporate-Identity).
+
+ Druckvorlage
+-------------
+Siehe [wir-machen-druck](https://www.wir-machen-druck.de/faltblatt-gefalzt-auf-din-lang-6seiter-wickelfalz.html)
 
  Lizenz
 --------
