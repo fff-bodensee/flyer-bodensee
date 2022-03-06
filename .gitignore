@@ -1,3 +1,7 @@
+# Binarys
+*.png
+*.pdf
+
 # ---> Vim
 # Swap
 [._]*.s[a-v][a-z]
