@@ -3,6 +3,11 @@
 
 Flyer von und für die Fridays for Future Ortsgruppe Bodensee.
 
+ Abhängigkeiten
+---------------
+Es wird Inkscape 1.1 *(oder neuer)* für das bearbeiten der svg Dateien benötigt.
+Informationen zu Farben und der verwendeten Schriftart (``Jost``) gibt es auf [wiki.fridaysforfuture.is/wiki/Corporate-Identity](https://wiki.fridaysforfuture.is/wiki/Corporate-Identity).
+
  Lizenz
 --------
 + © 2022 by L3D <l3d@c3woc.de>
