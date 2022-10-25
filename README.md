@@ -5,9 +5,10 @@ Flyer von und für die Fridays for Future Ortsgruppe Bodensee.
 
  Repositorys
 -------------
-Es gibt dieses Git Repository an zwei Orten:
+Es gibt dieses Git Repository an drei Orten:
 + https://backwesen.de/fff/flyer-bodensee.git
 + https://git.fridaysforfutu.re/bodensee/flyer-bodensee.git
++ https://github.com/fff-bodensee/flyer-bodensee.git
 
  Abhängigkeiten
 ---------------
